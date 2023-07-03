@@ -1,0 +1,19 @@
+li a{
+    color: green;
+}
+
+li a:hover {
+    color: lightgreen;
+}
+
+label {
+    cursor: pointer;
+}
+
+label:hover{
+    color: lightgreen;
+}
+
+.button {
+    cursor: pointer;
+}
